@@ -1,1 +1,1 @@
-# Churn-Analysis - PowerBi and prediction model in python
+# Churn-Analysis - PowerBi, EDA and prediction model in python
